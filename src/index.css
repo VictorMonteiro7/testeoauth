@@ -3,3 +3,8 @@
   padding: 0;
   box-sizing: border-box;
 }
+:root {
+  --purple: #83a;
+  --white: #fefefe;
+  --black: #0e0e0e;
+}
